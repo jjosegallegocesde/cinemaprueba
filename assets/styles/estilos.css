@@ -1,0 +1,12 @@
+.banner{
+
+    background-image: url('../img/banner.webp');
+    background-position: top center;
+    background-size: cover;
+    padding: 10% 20% 35% 30%;
+
+}
+
+.sillaroja{
+    pointer-events:none;
+}
